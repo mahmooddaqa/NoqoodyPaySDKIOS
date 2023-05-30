@@ -1,0 +1,6 @@
+use_frameworks!
+target 'NoqoodyPaySDKIOS_Tests' do
+  pod 'NoqoodyPaySDKIOS', :path => '../'
+  
+  
+end
