@@ -1,0 +1,22 @@
+{
+  "name": "NoqoodyPaySDKIOS",
+  "version": "0.1.0",
+  "summary": "A short description of NoqoodyPaySDKIOS.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/mahmooddaqa/NoqoodyPaySDKIOS",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "mahmooddaqa": "mahmood.dagga@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/mahmooddaqa/NoqoodyPaySDKIOS.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "NoqoodyPaySDKIOS/Classes/**/*"
+}
